@@ -16,7 +16,7 @@ use App\Http\Controllers\SignupController;
 */
 
 Route::get('/', function () {
-    return view('login');
+    return redirect('/login');
 });
 Route::get('/welcome', function () {
     return view('welcome');

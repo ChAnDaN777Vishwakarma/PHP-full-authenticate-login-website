@@ -57,9 +57,9 @@
                   </form>
             </div>
             <div class="image">
-                <form>
+                
                  <h2>image</h2>
-                  </form>
+                  
             </div>
            
         </div>

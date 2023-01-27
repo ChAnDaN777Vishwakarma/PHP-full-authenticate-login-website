@@ -7,6 +7,6 @@ use Illuminate\Http\Request;
 class LogoutController extends Controller
 {
     public function logout(){
-        return view('logout');
+        return redirect('/login');
     }
 }
